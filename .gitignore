@@ -16,3 +16,4 @@ dist
 /.settings
 /system.properties
 /Procfile
+bin
